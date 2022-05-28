@@ -1,0 +1,37 @@
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.IDENTIF.resources
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.PRINT.resources
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.Properties.Resources.resources
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\bin\Debug\ussef.exe.manifest
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\bin\Debug\ussef.application
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\bin\Debug\ussef.exe
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\bin\Debug\ussef.pdb
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\ussef.TrustInfo.xml
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\ussef.exe.manifest
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\ussef.application
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\ussef.exe
+C:\Users\user\OneDrive\Bureau\Projet_Stage\Attestation_Du_Travail1\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\ussef.pdb
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.IDENTIF.resources
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.PRINT.resources
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.Log_In.resources
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\bin\Debug\Ussef Bouchra.exe.manifest
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\bin\Debug\Ussef Bouchra.application
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\bin\Debug\Ussef Bouchra.exe
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\bin\Debug\Ussef Bouchra.pdb
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Ussef Bouchra.TrustInfo.xml
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Ussef Bouchra.exe.manifest
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Ussef Bouchra.application
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Ussef Bouchra.exe
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Ussef Bouchra.pdb
+C:\Users\user\OneDrive\Bureau\Projet_Stage\A\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\AttestaS.Properties.Resources.resources
+C:\Users\pc\Desktop\Projet_Stage_PFF\Attestas\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Ussef Bouchra.exe
+C:\Users\pc\Desktop\Projet_Stage_PFF\Attestas\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Ussef Bouchra.pdb
+C:\Users\pc\Desktop\Projet_Stage_PFF\Attestas\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Projet_Stage_PFF\Attestas\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.IDENTIF.resources
+C:\Users\pc\Desktop\Projet_Stage_PFF\Attestas\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.Log_In.resources
+C:\Users\pc\Desktop\Projet_Stage_PFF\Attestas\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.PRINT.resources
+C:\Users\pc\Desktop\Projet_Stage_PFF\Attestas\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\AttestaS.Properties.Resources.resources
+C:\Users\pc\Desktop\Projet_Stage_PFF\Attestas\Attestation_Du_Travail\Attestation_Du_Travail\obj\Debug\Attestation_Du_Travail.csproj.GenerateResource.Cache
